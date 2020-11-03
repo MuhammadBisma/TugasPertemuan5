@@ -1,8 +1,8 @@
 # pertemuan6_smt1
 Repository ini di buat untuk memenuhi tugas bahasa pemrograman pertemuan ke 6 <br> <br>
-Nama  : Pikri Ramdani<br>
-Nim   : 312010162<br>
-Kelas : TI.20 A.1<br><br>
+Nama  : Muhammad Bisma Putra H<br>
+Nim   : 312010443<br>
+Kelas : TI.20.A.1<br><br>
 
 DAFTAR ISI
 | No | Description | Link |
@@ -15,5 +15,6 @@ DAFTAR ISI
 ## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini)
-![gitpush](gambar/latihan.png)<br>
+![gitpush](gambar/latihan.png) <br>
+
 
