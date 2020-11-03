@@ -14,10 +14,10 @@ DAFTAR ISI
  
 ## Pertemuan 5 - Tugas
 
-Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini)
+Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini)<br><br>
 ![gitpush](gambar/latihan.png) <br>
 Saat ini saya akan menjelaskan hasil dari tugas tersebut.<br>
-Berikut *source code* nya atau Klik Link berikut ([Tugas 5 python](tugaspertemuan5.py)): <br>
+Berikut *source code* nya atau Klik Link berikut ([Tugas 5 python](tugas_pertemuan5.py)): <br>
 ```python
 print("=======================================")
 print("= NAMA    : MUHAMMAD BISMA PUTRA H     ")
